@@ -1,9 +1,10 @@
-/**
+﻿/**
  * Interface stipulating that an AI is a class that implements ‘chooseMove’.
  *
  * STUDENTS: Nothing to change here.
  *
- * @author INSERT YOUR NAME(S) HERE
+ * @author Raisa Azam
+
  */
 
 public interface AI {
